@@ -1,0 +1,1 @@
+coreWatch.o: ../coreWatch.c
